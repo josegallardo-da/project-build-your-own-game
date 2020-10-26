@@ -68,9 +68,7 @@ https://pyautogui.readthedocs.io/en/latest/msgbox.html
 
 ## Let's Connect
 _Paola Franco_
-
-<img src="https://github.com/josegallardo-da/project-build-your-own-game/blob/master/img/ap.jpg" alt="LinkedIn" width="100"/>
+<img src="https://github.com/josegallardo-da/project-build-your-own-game/blob/master/img/ap.jpg" alt="LinkedIn" width="200"/>
 
 _Jose Gallardo_
-
-<img src="https://github.com/josegallardo-da/project-build-your-own-game/blob/master/img/jg.jpg" alt="LinkedIn" width="100"/>
+<img src="https://github.com/josegallardo-da/project-build-your-own-game/blob/master/img/jg.jpg" alt="LinkedIn" width="200"/>
