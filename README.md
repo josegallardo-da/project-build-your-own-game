@@ -43,7 +43,7 @@ Google Search was the third element of the team without dissapointing us.
 ## Links
 Repository and slides can be found here: 
 https://github.com/josegallardo-da/project-build-your-own-game
-
+https://drive.google.com/file/d/1dfwxB_VrcWI6WMi4rxhmUOo47oo_J31N/view?usp=sharing
 Resources:
 *Warning: It is a big list! Be careful!*
 https://www.tutorialspoint.com/python/time_clock.htm
