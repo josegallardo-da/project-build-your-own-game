@@ -37,7 +37,7 @@ Zoom was our best friend for communication in times of COVID-19.
 Google Collab helped us creating the first drafts of the code. 
 Jupyter Notebook became our hero when Collab turned out to be an unstable environment for our code.
 Powerpoint as always was a powerful tool to present our ideas.
-Google Search was the third element of the team without dissapointing us. 
+Google Search was the third element of the team without disappointing us. 
 <a name="links"></a>
 
 ## Links
@@ -47,7 +47,6 @@ https://github.com/josegallardo-da/project-build-your-own-game
 https://drive.google.com/file/d/1dfwxB_VrcWI6WMi4rxhmUOo47oo_J31N/view?usp=sharing
 
 Resources:
-
 *Warning: It is a big list! Be careful!*
 
 https://www.tutorialspoint.com/python/time_clock.htm
@@ -68,7 +67,9 @@ https://pyautogui.readthedocs.io/en/latest/msgbox.html
 
 ## Let's Connect
 _Paola Franco_
+
 <img src="https://github.com/josegallardo-da/project-build-your-own-game/blob/master/img/ap.jpg" alt="LinkedIn" width="200"/>
 
 _Jose Gallardo_
-<img src="https://github.com/josegallardo-da/project-build-your-own-game/blob/master/img/jg.jpg" alt="LinkedIn" width="200"/>
+
+<img src="https://github.com/josegallardo-da/project-build-your-own-game/blob/master/img/jg.jpg" alt="LinkedIn" width="210"/>
