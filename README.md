@@ -37,16 +37,18 @@ Zoom was our best friend for communication in times of COVID-19.
 Google Collab helped us creating the first drafts of the code. 
 Jupyter Notebook became our hero when Collab turned out to be an unstable environment for our code.
 Powerpoint as always was a powerful tool to present our ideas.
-Google Search was the third element of the team without dissapointing us. 
+Google Search was the third element of the team without disappointing us. 
 <a name="links"></a>
 
 ## Links
 Repository and slides can be found here: 
+
 https://github.com/josegallardo-da/project-build-your-own-game
 https://drive.google.com/file/d/1dfwxB_VrcWI6WMi4rxhmUOo47oo_J31N/view?usp=sharing
 
 Resources:
 *Warning: It is a big list! Be careful!*
+
 https://www.tutorialspoint.com/python/time_clock.htm
 https://www.tutorialspoint.com/python/time_clock.htm
 https://www.cs.swarthmore.edu/~soni/cs21/f16/Labs/lab07.php
